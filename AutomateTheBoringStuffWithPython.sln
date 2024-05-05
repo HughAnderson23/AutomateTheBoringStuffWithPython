@@ -13,6 +13,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		fiveTime.py = fiveTime.py
 		guessTheNumber.py = guessTheNumber.py
 		printRandom.py = printRandom.py
+		RockPaperSicissors.py = RockPaperSicissors.py
 		start stopping and stepping args in range.py = start stopping and stepping args in range.py
 		swordfish.py = swordfish.py
 		truthyandfalseyvalues.py = truthyandfalseyvalues.py
